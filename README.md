@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h3 align="center"><img align="center" src="https://lh3.googleusercontent.com/oWOSHObJ_dNjGOhvFIAqQMA1BZAK7Y8SFBJsBPNX3_qOEbWJiNgjG5BXVGZYt-UW8YM=w412-h220-rw" height="33px" /></h3> 
+  <h3 align="center"><img align="center" src="https://lh3.googleusercontent.com/oWOSHObJ_dNjGOhvFIAqQMA1BZAK7Y8SFBJsBPNX3_qOEbWJiNgjG5BXVGZYt-UW8YM=w412-h220-rw" /></h3> 
 </div>
 
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
