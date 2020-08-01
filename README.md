@@ -18,9 +18,9 @@ Here are some ideas to get you started:
  <br/>
 ## Ask me about :computer:
 - **Web Development**
-	- HTML, CSS and Javascript :white_check_mark:
+	- HTML, CSS and Javascript 
 	- Bootstrap
-	- React with Redux :electron:
+	- React with Redux 
 	- MonogoDB
   - Express
   - NodeJS  
