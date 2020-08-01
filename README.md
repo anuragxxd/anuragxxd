@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <br/>
 
 ## 👯 I’m looking to collaborate on ...
-- An Social Media App. |Collaborator needs to have a good knowledge about Machine-Learning for search api. Name will be given of the final app.|
+- An Social Media App. Collaborator needs to have a good knowledge about Machine-Learning for search api. Name will be given of the final app.
 
 
 
