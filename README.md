@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 	- React with Redux 
 	- MonogoDB
 	- Mongoose
+	- My Sql
+	- GraphQL
+	- Rest Api's
+	- React Native
+	- Expo Client
   - Express
   - NodeJS  
   
