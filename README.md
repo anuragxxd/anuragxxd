@@ -24,15 +24,14 @@ Here are some ideas to get you started:
 	- HTML, CSS and Javascript 
 	- Bootstrap
 	- React with Redux 
+	- Express
+ 	- NodeJS 
 	- MonogoDB
 	- Mongoose
 	- My Sql
 	- GraphQL
 	- Rest Api's
-	- React Native
-	- Expo Client
-  - Express
-  - NodeJS  
+	- React Native 
   
 - **Competitive Programming**
 	- C++
