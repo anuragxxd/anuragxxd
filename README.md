@@ -42,8 +42,9 @@ Here are some ideas to get you started:
 
 
 ## 🌱 I’m currently learning ...
+- **C++**
+- **PHP**
 - **Data Science**
-- **AI**
 <br/>
   <br/>
 
