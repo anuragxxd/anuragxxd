@@ -12,14 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <h3 align="center"><img align="center" src="https://lh3.googleusercontent.com/oWOSHObJ_dNjGOhvFIAqQMA1BZAK7Y8SFBJsBPNX3_qOEbWJiNgjG5BXVGZYt-UW8YM=w412-h220-rw" /></h3> 
-</div>
 
-### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-<em>I am a 2nd Year undergraduate student from <a href="https://www.bitmesra.ac.in/"><b>Birla Institute of Technology, Mesra</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
+### Hello world!
+<em>I am a 2nd Year undergraduate student from <a href="https://www.bitmesra.ac.in/"><b>Birla Institute of Technology, Mesra</b></a>. From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. Do visit this profile and gite a star.
  <br/>
-## :computer: Ask me about 
+## Ask me about 
 - **Web Development**
 	- HTML, CSS and Javascript 
 	- Bootstrap
@@ -32,25 +29,18 @@ Here are some ideas to get you started:
 	- GraphQL
 	- Rest Api's
 	- React Native 
+	- Socket.io
   
 - **Competitive Programming**
 	- C++
 	- Some Java
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-
-
-## 🌱 I’m currently learning ...
+## I’m currently learning ...
 - **C++**
 - **PHP**
 - **Data Science**
 <br/>
-  <br/>
-
-## 👯 I’m looking to collaborate on ...
-- An Social Media App. Collaborator needs to have a good knowledge about Machine-Learning for search api. Credits will be given.
-
 
 
 <div align="center">
@@ -58,13 +48,13 @@ Here are some ideas to get you started:
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/anurag-gupta-40912a198/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Anurag's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.instagram.com/anurag_.gupta/" target="blank">
-  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Anurag's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://twitter.com/guptaanurag121" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Anurag's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
   <br/>
   <br/>
