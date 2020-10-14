@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hello world!
-<em>I am a 2nd Year undergraduate student from <a href="https://www.bitmesra.ac.in/"><b>Birla Institute of Technology, Mesra</b></a>. From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. Do visit this profile and gite a star.
+<em>I am a 2nd Year undergraduate student from <a href="https://www.bitmesra.ac.in/"><b>Birla Institute of Technology, Mesra</b></a>. Do visit this profile and gite a star.
  <br/>
 ## Ask me about 
 - **Web Development**
