@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  	- NodeJS 
 	- MonogoDB
 	- Mongoose
-	- My Sql
+	- Sql
 	- GraphQL
 	- Rest Api's
 	- React Native 
