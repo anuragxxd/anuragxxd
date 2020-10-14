@@ -58,8 +58,6 @@ Here are some ideas to get you started:
  </a>
   <br/>
   <br/>
-  Thanks for stopping by 😁<br/>
 </p>
-Visit my profile and give a ⭐️ if you like it</p>
 
 ⭐️ From [git-anurag-hub](https://github.com/git-anurag-hub)
