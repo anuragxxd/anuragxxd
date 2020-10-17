@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   
 - **Competitive Programming**
 	- C++
-	- Some Java
+	- Python
 
 
 ## I’m currently learning ...
