@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 <em>I am a 2nd Year undergraduate student from <a href="https://www.bitmesra.ac.in/"><b>Birla Institute of Technology, Mesra</b></a>. Do visit this profile and give it a star.
  <br/>
 ## Ask me about 
-- **Web Development**
-	- HTML, CSS and Javascript 
-	- Bootstrap
+- **Web/App Development**
+	- HTML, CSS and Javascript
 	- React with Redux 
 	- Express
  	- NodeJS 
@@ -39,7 +38,7 @@ Here are some ideas to get you started:
 
 ## I’m currently learning ...
 - **C++**
-- **PHP**
+- **System Designs**
 - **Data Science**
 <br/>
 
