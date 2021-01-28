@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  <br/>
 ## Ask me about 
 - **Web/App Development**
-	- HTML, CSS and Javascript
+	- HTML, CSS, JS and TS
 	- React with Redux 
 	- Express
  	- NodeJS 
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 	- React Native 
 	- Socket.io
 	- Meteor
+	- Docker
   
 - **Competitive Programming**
 	- C++
@@ -37,6 +38,7 @@ Here are some ideas to get you started:
 
 
 ## I’m currently learning ...
+- **Micro-Sercives**
 - **C++**
 - **System Designs**
 - **Data Science**
