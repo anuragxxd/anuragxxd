@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 	- Socket.io
 	- Meteor
 	- Docker
+	- Kubernetes
   
 - **Competitive Programming**
 	- C++
