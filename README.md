@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello world!
 <em>I am a 2nd Year undergraduate student from <a href="https://www.bitmesra.ac.in/"><b>Birla Institute of Technology, Mesra</b></a>. Do visit this profile and give it a star.
  <br/>
 ## Ask me about 
