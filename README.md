@@ -1,7 +1,7 @@
 
 # Hi, I am Anurag 
 
-I am a Software Engineer. I am passionate about technologies and love to learn new things. I love to also read myths.
+I am a Software Engineer. I am passionate about technologies and love to learn new things. I also love to read myths.
 
 #### 🔭 I’m currently looking for new opportunities.
 
