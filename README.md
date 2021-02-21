@@ -5,7 +5,7 @@ I am a Software Engineer. I am passionate about technologies and love to learn n
 
 #### 🔭 I’m currently looking for new opportunities.
 
-Working on MicroService App ([Ticketing](https://github.com/git-anurag-hub/Ticketing))
+Working on MicroService App [Ticketing](https://github.com/git-anurag-hub/Ticketing)
 
 ## 📫 Get in touch
 - LinkedIn - [Anurag Gupta](https://www.linkedin.com/in/anurag-gupta-40912a198/)
