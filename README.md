@@ -1,9 +1,13 @@
 
 # Hi, I am Anurag 
 
-I am a Software Engineer. I am passionate about technologies and love to learn new things. I also love to read myths. I am a active open-source contributor doing that as fun. 
+I'm a University Student in India, pursing Computer Science as intrest. I've been actively involved as open-source contributor to projects, where I am trying to solve the problems faced by community and imporve my skills. I've been doing this from around 2019.
 
-#### 🔭 I’m currently looking for new opportunities.
+Other than that, I like to read mythologies & playing games.
+
+My goal with GitHub is to be able to study and to work with OSS that is essential to the web continuing to thrive.
+
+Thanks for taking time to read this. Follow me to hear more about me. :)
 
 ## 📫 Get in touch
 - LinkedIn - [Anurag Gupta](https://www.linkedin.com/in/anurag-gupta-40912a198/)
