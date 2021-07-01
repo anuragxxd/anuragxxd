@@ -3,7 +3,7 @@
 
 I'm a University Student in India, pursing Computer Science as intrest. I've been actively involved as open-source contributor to different projects, where I am trying to solve the problems faced by community and imporve my skills. I've been doing this from around 2019.
 
-Other than that, I like to read mythologies & playing games.
+Other than that, I like to read mythologies & play games.
 
 My goal with GitHub is to be able to study and to work with OSS that is essential to the web continuing to thrive.
 
