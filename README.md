@@ -10,6 +10,7 @@ My goal with GitHub is to be able to study and to work with OSS that is essentia
 Thanks for taking time to read this. Follow me to hear more about me. :)
 
 ## 📫 Get in touch
+- Portfolio - [Anurag Gupta](https://gupta-anurag.vercel.app/#/)
 - LinkedIn - [Anurag Gupta](https://www.linkedin.com/in/anurag-gupta-40912a198/)
 - Twitter - [@guptaanurag121](https://twitter.com/guptaanurag121)
 - Instagram - [@anurag_.gupta](https://www.instagram.com/anurag_.gupta/)
